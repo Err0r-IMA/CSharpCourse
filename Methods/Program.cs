@@ -30,13 +30,13 @@
 
                 onu ref olarak gönderiyoruz.
 
-               defin  bir diğer alternatifi out 'dur . Kısaca değer tipi referans tip gibi gönderdim. 
+               def'in  bir diğer alternatifi out 'dur . Kısaca değer tipi referans tip gibi gönderdim. 
 
 
                 out bir değer atanmasına bağımlı değil Lâkin ref bir değer atanmadığında kızar. 
             14. Kod satırındaki atama için ref 20 değerinin atanmasını istiyor out da böyle bir zorunluluk yok.
 
-             */
+             */ 
 
         }
 
